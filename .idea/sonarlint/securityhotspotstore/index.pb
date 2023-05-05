@@ -6,8 +6,6 @@
 6
 .npmrc,1/2/12453d06e6e35287172e482940b954ba12dc25a2
 <
-package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
-<
 .env.example,d/4/d4dae00d11854b35292c2b8a30515a9a0aa2d871
 :
 
