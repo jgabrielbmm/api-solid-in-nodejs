@@ -39,8 +39,6 @@ a
 vite.config.ts,7/5/75ea7f3ea6d80d54bb5b2357996972d1632a5038
 <
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
-I
-src/use-cases/register.ts,f/1/f1f340ccac5413a57429c1f784dc7cac34063b66
 B
 src/http/routes.ts,f/d/fdae2c22aa726ad50492ca9d5ff99748ece4aac5
 P
@@ -61,8 +59,6 @@ M
 src/use-cases/authenticate.ts,b/9/b9634ba5e5378550bdcfabd2182b770d0845ac9d
 Q
 !src/use-cases/get-user-profile.ts,b/0/b01057b0659b794c42a8ad18ff13881749d86737
-N
-src/use-cases/register.spec.ts,2/b/2bafa354d4ffafd1d25ea0f66ce003eb226e9f5f
 V
 &src/use-cases/get-user-profile.spec.ts,2/e/2e48dd56d94d8bf16e42466c0dfc0fe04f1b414b
 R
@@ -75,5 +71,3 @@ l
 <src/repositories/in-memory/in-memory-check-ins-repository.ts,0/d/0d0db8b4a2d3bb0dcb5f704d058c7f399c9d2920
 X
 (src/repositories/check-ins-repository.ts,4/8/48b246b416e74db01c09bb019c6968e0b41830a3
-S
-#src/repositories/gyms-repository.ts,d/b/db5342f2ed5f96722fd00fba774baad176895ebd
