@@ -67,7 +67,3 @@ T
 $src/repositories/users-repository.ts,6/b/6b8c54d432e474f5d908a0f2462b4d4c26bcce90
 g
 7src/repositories/in-memory/in-memory-user-repository.ts,6/1/612c33984a989039c3ebd9de35884c5bbbdfea2f
-l
-<src/repositories/in-memory/in-memory-check-ins-repository.ts,0/d/0d0db8b4a2d3bb0dcb5f704d058c7f399c9d2920
-X
-(src/repositories/check-ins-repository.ts,4/8/48b246b416e74db01c09bb019c6968e0b41830a3

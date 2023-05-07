@@ -63,10 +63,6 @@ V
 &src/use-cases/get-user-profile.spec.ts,2/e/2e48dd56d94d8bf16e42466c0dfc0fe04f1b414b
 R
 "src/use-cases/authenticate.spec.ts,3/e/3e7c22695a5478ec03049590148847b3ccf3c22c
-X
-(src/repositories/check-ins-repository.ts,4/8/48b246b416e74db01c09bb019c6968e0b41830a3
-l
-<src/repositories/in-memory/in-memory-check-ins-repository.ts,0/d/0d0db8b4a2d3bb0dcb5f704d058c7f399c9d2920
 T
 $src/repositories/users-repository.ts,6/b/6b8c54d432e474f5d908a0f2462b4d4c26bcce90
 g
