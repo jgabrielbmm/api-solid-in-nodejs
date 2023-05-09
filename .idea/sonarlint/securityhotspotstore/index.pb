@@ -67,3 +67,23 @@ T
 $src/repositories/users-repository.ts,6/b/6b8c54d432e474f5d908a0f2462b4d4c26bcce90
 g
 7src/repositories/in-memory/in-memory-user-repository.ts,6/1/612c33984a989039c3ebd9de35884c5bbbdfea2f
+]
+-src/utils/get-distance-between-coordinates.ts,2/2/22e8980d8a185f47d0d785e110e81dfdf0e8d7e1
+S
+#src/repositories/gyms-repository.ts,d/b/db5342f2ed5f96722fd00fba774baad176895ebd
+K
+src/use-cases/create-gym.ts,5/9/5914e8f8b8f009ba5eabf551ab36d7273563e13b
+N
+src/use-cases/register.spec.ts,2/b/2bafa354d4ffafd1d25ea0f66ce003eb226e9f5f
+g
+7src/repositories/in-memory/in-memory-gyms-repository.ts,f/7/f750ad010ab3fcf58e0a7d226eee673e95ee1bba
+P
+ src/use-cases/create-gym.spec.ts,b/f/bf18c38c69421757b508994429966d5cce895c47
+Z
+*src/use-cases/errors/max-distance-error.ts,2/2/22775277650c651dae6f03aaa1a0050ef3e99740
+e
+5src/use-cases/errors/max-number-of-check-ins-error.ts,3/4/34f732d76d00343d166d501a5c86418cef775a5e
+I
+src/use-cases/check-in.ts,7/7/775efa790bf61ec1458be7ba0f8090d02536f491
+N
+src/use-cases/check-in.spec.ts,e/7/e70d8d52fce2a2ebedf9e3ae1f294e7a04cc7065
