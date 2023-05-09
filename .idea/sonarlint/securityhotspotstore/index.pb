@@ -75,5 +75,3 @@ Z
 *src/use-cases/errors/max-distance-error.ts,2/2/22775277650c651dae6f03aaa1a0050ef3e99740
 e
 5src/use-cases/errors/max-number-of-check-ins-error.ts,3/4/34f732d76d00343d166d501a5c86418cef775a5e
-N
-src/use-cases/check-in.spec.ts,e/7/e70d8d52fce2a2ebedf9e3ae1f294e7a04cc7065

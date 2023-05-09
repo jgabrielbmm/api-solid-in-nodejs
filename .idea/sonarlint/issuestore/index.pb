@@ -75,5 +75,3 @@ e
 5src/use-cases/errors/max-number-of-check-ins-error.ts,3/4/34f732d76d00343d166d501a5c86418cef775a5e
 N
 src/use-cases/register.spec.ts,2/b/2bafa354d4ffafd1d25ea0f66ce003eb226e9f5f
-N
-src/use-cases/check-in.spec.ts,e/7/e70d8d52fce2a2ebedf9e3ae1f294e7a04cc7065
