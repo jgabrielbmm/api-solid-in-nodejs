@@ -41,16 +41,8 @@ a
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
 B
 src/http/routes.ts,f/d/fdae2c22aa726ad50492ca9d5ff99748ece4aac5
-P
- src/http/controllers/register.ts,6/e/6ea5c3567a05d0e8ff89e95a2fe1892091b3fd1e
 T
 $src/http/controllers/authenticate.ts,e/b/ebd56adc9f344550128d212f3b11372f9e81e571
-e
-5src/use-cases/factories/make-authenticate-use-case.ts,a/c/ac9f428719feb65e3b7baa3617825e7a7063ed15
-a
-1src/use-cases/factories/make-register-use-case.ts,4/c/4c51661759cdde1c0146afc6afcb860242e689a2
-b
-2src/repositories/prisma/prisma-users-repository.ts,d/5/d5d964f97fc3416ec00b354597ba77881e53dcdd
 a
 1src/use-cases/errors/invalid-credentials-error.ts,3/f/3f28ee231f55e46e8070bac5ee9583cef09eac6f
 `
