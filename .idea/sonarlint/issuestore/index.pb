@@ -3,8 +3,6 @@
 LICENSE,0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
 6
 .npmrc,1/2/12453d06e6e35287172e482940b954ba12dc25a2
-<
-.env.example,d/4/d4dae00d11854b35292c2b8a30515a9a0aa2d871
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -22,35 +20,20 @@ s
 Cprisma/migrations/20230504155515_create_relationships/migration.sql,3/0/30ddd1f986c08afa4ffc8c6565d2b5ee52445b51
 4
 .env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
-@
-src/env/index.ts,4/b/4bf28208febe0178b6690f75fd6cb7aa035627ab
 =
 src/server.ts,b/c/bcc09dcb20cae54f483679309f0403fdcbd98121
 A
 src/lib/prisma.ts,c/d/cd21019e0b0022c129983862d28ff953b89d788a
 >
 .eslintrc.json,7/1/71c20a341bfe32aa5cd5b4384e94f942bab6a7d3
-:
-
-src/app.ts,2/1/216381173f187cf4c2baf119193855699f4bc616
 a
 1src/use-cases/errors/user-already-exists-error.ts,e/4/e45d20aee47a31b85e4b695ac7f688f1584071c0
->
-vite.config.ts,7/5/75ea7f3ea6d80d54bb5b2357996972d1632a5038
-<
-package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
-B
-src/http/routes.ts,f/d/fdae2c22aa726ad50492ca9d5ff99748ece4aac5
-T
-$src/http/controllers/authenticate.ts,e/b/ebd56adc9f344550128d212f3b11372f9e81e571
 a
 1src/use-cases/errors/invalid-credentials-error.ts,3/f/3f28ee231f55e46e8070bac5ee9583cef09eac6f
 `
 0src/use-cases/errors/resource-not-found-error.ts,2/1/210aebdc923a7436fb40b1f968b81cc9cbd6b3d7
 M
 src/use-cases/authenticate.ts,b/9/b9634ba5e5378550bdcfabd2182b770d0845ac9d
-Q
-!src/use-cases/get-user-profile.ts,b/0/b01057b0659b794c42a8ad18ff13881749d86737
 ]
 -src/utils/get-distance-between-coordinates.ts,2/2/22e8980d8a185f47d0d785e110e81dfdf0e8d7e1
 Z
