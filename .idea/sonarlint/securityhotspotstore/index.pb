@@ -48,8 +48,6 @@ K
 src/use-cases/create-gym.ts,5/9/5914e8f8b8f009ba5eabf551ab36d7273563e13b
 P
  src/use-cases/create-gym.spec.ts,b/f/bf18c38c69421757b508994429966d5cce895c47
-L
-src/use-cases/search-gyms.ts,0/f/0fe2140377ac69667c9e6dc7ab32fff2d948dbb5
 S
 #src/repositories/gyms-repository.ts,d/b/db5342f2ed5f96722fd00fba774baad176895ebd
 R
