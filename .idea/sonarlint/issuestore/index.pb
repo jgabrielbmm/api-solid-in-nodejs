@@ -56,5 +56,3 @@ g
 7src/repositories/in-memory/in-memory-gyms-repository.ts,f/7/f750ad010ab3fcf58e0a7d226eee673e95ee1bba
 I
 src/use-cases/check-in.ts,7/7/775efa790bf61ec1458be7ba0f8090d02536f491
-N
-src/use-cases/check-in.spec.ts,e/7/e70d8d52fce2a2ebedf9e3ae1f294e7a04cc7065
